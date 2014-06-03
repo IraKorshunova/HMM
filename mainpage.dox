@@ -1,0 +1,7 @@
+/**
+\mainpage The mainpage documentation
+
+This project contains 2 functions for the analysis of Discrete Time Hidden Markov Models.  
+Implementation of Viterbi and Forward-Backward algorithms is numerically stable as it uses logarithms of probabilities.
+For detail information see http://bozeman.genome.washington.edu/compbio/mbt599_2006/hmm_scaling_revised.pdf
+*/
